@@ -1,7 +1,5 @@
 # Raven Storm DDoS 
 
-![Installing Raven](InstallingRaven111111.png)
-
 ![Main Screen](RavenMain1.png)
 
 ![Main Screen Options](RavenMain2.png)
@@ -12,16 +10,18 @@
 
 To get started with Raven Storm, follow these steps:
 
-### 1. Clone the repository using Git:
+## 1. Clone the repository using Git:
 
-```bash
+### ```bash
 git clone https://github.com/LinuxPhantom/Raven-Storm.git
 
-### 2. Navigate to the cloned Raven-Storm directory:
-cd Raven-Storm
+## 2. Navigate to the cloned Raven-Storm directory:
+###cd Raven-Storm
 
-### 3. Launch Raven-Storm by running the main.py file:
-python main.py
+## 3. Launch Raven-Storm by running the main.py file:
+### python main.py
+
+![Installing Raven](InstallingRaven111111.png)
 
 # Disclaimer
 ⚠️ Raven Storm is intended for educational and stress-testing purposes only. 
