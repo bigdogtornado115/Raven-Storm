@@ -91,12 +91,13 @@ C_FIRE (
 |   // _` |\\ V / / -_)| ' \\)) (_-<|  _|/ _ \\| '_|| '  \\C_FIRE()C_BOT
 |_|_\\\\__,_| \\_/  \\___||_||_|  /__/ \\__|\\___/|_|  |_|_|_|C_W
 
-C_BoStress-Testing-Toolkit by LinuxPhantom (c) | MIT 2023
-Based on the CLIF Framework by LinuxPhantom (c) | MIT 2023C_W
+C_Stress-Testing by LinuxPhantom (c) | 2023
+Based on the Framework by LinuxPhantom (c) | 2023C_W
 
 BY USING THIS SOFTWARE, YOU MUST AGREE TO TAKE FULL RESPONSIBILITY
-FOR ANY DAMAGE CAUSED BY RAVEN-STORM.
-RAVEN-STORM SHOULD NOT SUGGEST PEOPLE TO PERFORM ILLEGAL ACTIVITIES.
+FOR ANY DAMAGE CAUSED BY RAVEN STORM.
+THIS IS A VERY POWERFUL DDoS TOOL THAT SHOULD NOT BE USED FOR EVIL.
+Add My Discord - LinuxPhantom
 C_Bo-----------------------------------------------------------C_W""")
 		banner_logo = banner_logo.replace("C_W", var.C_None)
 		banner_logo = banner_logo.replace("C_Bo", var.C_Bold)
