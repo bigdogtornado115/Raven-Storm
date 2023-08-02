@@ -91,7 +91,7 @@ C_FIRE (
 |   // _` |\\ V / / -_)| ' \\)) (_-<|  _|/ _ \\| '_|| '  \\C_FIRE()C_BOT
 |_|_\\\\__,_| \\_/  \\___||_||_|  /__/ \\__|\\___/|_|  |_|_|_|C_W
 
-C_🚀 Stress-Testing by LinuxPhantom © | 2023C_W
+🚀 Stress-Testing by LinuxPhantom © | 2023
 
 ⚠️Please note: This software is intended for educational and stress-testing purposes only.
 ⚠️The user assumes full responsibility for any consequences resulting from its use.
