@@ -91,15 +91,15 @@ C_FIRE (
 |   // _` |\\ V / / -_)| ' \\)) (_-<|  _|/ _ \\| '_|| '  \\C_FIRE()C_BOT
 |_|_\\\\__,_| \\_/  \\___||_||_|  /__/ \\__|\\___/|_|  |_|_|_|C_W
 
-C_Stress-Testing by LinuxPhantom (c) | 2023_W
+C_🚀 Stress-Testing by LinuxPhantom © | 2023C_W
 
-Please note: This software is intended for educational and stress-testing purposes only.
-The user assumes full responsibility for any consequences resulting from its use.
+⚠️Please note: This software is intended for educational and stress-testing purposes only.
+⚠️The user assumes full responsibility for any consequences resulting from its use.
 
 ❌ Do not use this powerful DDoS tool for malicious purposes.
-It is designed to be used responsibly and ethically.
+❌ It is designed to be used responsibly and ethically.
 
-For support and inquiries, add my Discord: LinuxPhantom
+🔧For support and inquiries, add my Discord: LinuxPhantom
 C_Bo-----------------------------------------------------------C_W""")
 		banner_logo = banner_logo.replace("C_W", var.C_None)
 		banner_logo = banner_logo.replace("C_Bo", var.C_Bold)
